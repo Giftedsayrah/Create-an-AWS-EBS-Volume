@@ -14,12 +14,16 @@ Sign in to the AWS Management Console and ensure the correct region is selected.
 ![AWS Console Dashboard](images/01-dashboard.png)
 
 ## Step 2: Navigate to EC2
+
 •	Click Services
+
 •	Select EC2
 ![AWS Console Dashboard](images/02-navigate-to-ec2.png)
 
 ## Step 3: Open Volumes (Elastic Block Store)
+
 •	In the EC2 left-hand menu, scroll to Elastic Block Store
+
 •	Click Volumes
 ![Select S3 Bucket](images/03-open-volumes.png)
 
@@ -36,8 +40,11 @@ Click Create volume and configure the following:
 
 ## Step 5: Add Name Tag
 Under Tags:
+
 •	Click Add tag
+
 •	Key: Name
+
 •	Value: xfusion-volume
 
 
