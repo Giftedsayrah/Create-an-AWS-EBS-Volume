@@ -25,8 +25,11 @@ Sign in to the AWS Management Console and ensure the correct region is selected.
 
 ## Step 4: Create a New Volume
 Click Create volume and configure the following:
+
 •	Volume type: 
+
 •	Size: 
+
 •	Availability Zone:
 
 ![Bucket Properties Tab](images/04-create-volume-settings.png)
