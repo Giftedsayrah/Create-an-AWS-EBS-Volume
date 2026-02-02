@@ -54,9 +54,13 @@ Click Create volume to complete the process.
 
 ## Step 7: Verify the Volume
 Confirm the volume was created successfully:
+
 •	Name: xfusion-volume
+
 •	State: Available
+
 •	Type: gp3
+
 •	Size: 2 GiB
 ![Versioning Enabled](images/07-volume-created.png)
 
