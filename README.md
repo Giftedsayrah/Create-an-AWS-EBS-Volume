@@ -36,7 +36,7 @@ Under Tags:
 •	Click Add tag
 •	Key: Name
 •	Value: xfusion-volume
-![Enable Versioning](images/05-add-name-tag.png)
+
 
 ## Step 6: Create the Volume
 Click Create volume to complete the process.
